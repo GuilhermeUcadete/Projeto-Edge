@@ -47,7 +47,7 @@ O objetivo principal deste trabalho é criar uma plataforma funcional e adaptáv
 - Monitoramento de condições climáticas em ambientes internos ou externos.
 - Controle de luminosidade e temperatura em sistemas de automação residencial.
 - Simulações educacionais para demonstrar conceitos de IoT (Internet das Coisas).
-- 
+  
 Em resumo, o projeto demonstra como a integração de tecnologias de hardware e software pode fornecer soluções práticas e acessíveis para problemas do dia a dia, além de abrir possibilidades para aplicações mais complexas no campo da automação e do monitoramento inteligente.
 
 
