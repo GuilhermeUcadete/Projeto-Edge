@@ -79,7 +79,6 @@ Os fluxos do Node-RED foram criados para gerenciar a entrada e visualização do
 
 1. **Entrada de Dados do MQTT**: O **Node-RED** irá ouvir os tópicos MQTT (como `potenciometro`, `temperatura`, `umidade`, `luminosidade`) e exibir os valores na interface.
    
-2. **Processamento e Visualização**: Os dados recebidos são processados e enviados para os nós de debug ou para interfaces de visualização, como o painel do **Dashboard** (caso decida usá-lo).
+2. **Processamento e Visualização**: Os dados recebidos são processados e enviados para os nós de debug ou para interfaces de visualização.
 
-## **Estrutura de Arquivos**
 
