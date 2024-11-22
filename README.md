@@ -36,11 +36,19 @@ No **Wokwi**, o projeto inclui:
 
 ## **Objetivo do projeto Wokwi**
 
-Este projeto tem como objetivo monitorar variáveis ambientais em tempo real, utilizando o microcontrolador ESP32 e sensores como DHT22 (temperatura e umidade), LDR (luminosidade) e um potenciômetro (entrada analógica). Os dados captados são enviados via MQTT para o Node-RED, onde são processados e exibidos em um dashboard interativo.
+O projeto busca oferecer uma solução eficiente para monitoramento remoto de variáveis ambientais e controle de sensores, utilizando tecnologias como ESP32, Node-RED e MQTT. Essa integração permite capturar dados em tempo real e apresentá-los de forma clara e acessível, tanto para simulação quanto para aplicações reais.
 
-A simulação do hardware foi feita no Wokwi, permitindo testar o funcionamento sem equipamentos físicos. Isso torna o projeto ideal para prototipagem e aprendizado.
+A base do sistema é o microcontrolador ESP32, que se comunica com sensores como um DHT22 (para medir temperatura e umidade), um LDR (para detectar luminosidade) e um potenciômetro (para simular variações de entrada analógica). Esses dados são transmitidos por meio do protocolo MQTT para o Node-RED, onde são processados e exibidos em dashboards visuais, incluindo gráficos, medidores e outros componentes interativos.
 
-Aplicações incluem automação residencial, monitoramento ambiental e demonstrações educacionais em IoT, destacando a integração prática entre hardware e software para soluções acessíveis e funcionais.
+Durante a fase de desenvolvimento e testes, utilizamos o Wokwi, uma plataforma online que permite simular o funcionamento do hardware e validar o código sem a necessidade de equipamentos físicos. Essa abordagem facilita a prototipagem e reduz custos, tornando o projeto acessível para estudantes e desenvolvedores.
+
+O objetivo principal deste trabalho é criar uma plataforma funcional e adaptável para monitoramento ambiental. Entre os possíveis usos, destacam-se:
+
+- Monitoramento de condições climáticas em ambientes internos ou externos.
+- Controle de luminosidade e temperatura em sistemas de automação residencial.
+- Simulações educacionais para demonstrar conceitos de IoT (Internet das Coisas).
+- 
+Em resumo, o projeto demonstra como a integração de tecnologias de hardware e software pode fornecer soluções práticas e acessíveis para problemas do dia a dia, além de abrir possibilidades para aplicações mais complexas no campo da automação e do monitoramento inteligente.
 
 
 
