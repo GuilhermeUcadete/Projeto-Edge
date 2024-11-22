@@ -49,7 +49,11 @@ O objetivo principal deste trabalho é criar uma plataforma funcional e adaptáv
 - Simulações educacionais para demonstrar conceitos de IoT (Internet das Coisas).
   
 Em resumo, o projeto demonstra como a integração de tecnologias de hardware e software pode fornecer soluções práticas e acessíveis para problemas do dia a dia, além de abrir possibilidades para aplicações mais complexas no campo da automação e do monitoramento inteligente.
+
+Veja a imagem á baixo sobre o recebimentos de dados no Dashboard
 ![image](https://github.com/user-attachments/assets/0ad07e13-0e9b-49e6-afb3-29d556984294)
+
+Veja a imagem á baixo sobre como está projetado o Node-RED
 ![image](https://github.com/user-attachments/assets/f83bd7a9-f7d3-49ed-a904-b802acb5832c)
 
 
