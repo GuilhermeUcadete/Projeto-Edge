@@ -50,7 +50,8 @@ O objetivo principal deste trabalho é criar uma plataforma funcional e adaptáv
   
 Em resumo, o projeto demonstra como a integração de tecnologias de hardware e software pode fornecer soluções práticas e acessíveis para problemas do dia a dia, além de abrir possibilidades para aplicações mais complexas no campo da automação e do monitoramento inteligente.
 
----
+---![image](https://github.com/user-attachments/assets/200d121e-ac95-4de6-9836-34e68533de1f)
+
 
 ## **Instalação**
 
