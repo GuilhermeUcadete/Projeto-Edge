@@ -50,13 +50,13 @@ O objetivo principal deste trabalho é criar uma plataforma funcional e adaptáv
   
 Em resumo, o projeto demonstra como a integração de tecnologias de hardware e software pode fornecer soluções práticas e acessíveis para problemas do dia a dia, além de abrir possibilidades para aplicações mais complexas no campo da automação e do monitoramento inteligente.
 
-A imagem á baixo mostra o recebimentos de dados no Dashboard
+##**A imagem á baixo mostra o recebimentos de dados no Dashboard**
 
-##**![image](https://github.com/user-attachments/assets/0ad07e13-0e9b-49e6-afb3-29d556984294)**
+![image](https://github.com/user-attachments/assets/0ad07e13-0e9b-49e6-afb3-29d556984294)
 
-A imagem á baixo mostra como está projetado o Node-RED
+##**A imagem á baixo mostra como está projetado o Node-RED**
 
-##**![image](https://github.com/user-attachments/assets/f83bd7a9-f7d3-49ed-a904-b802acb5832c)**
+![image](https://github.com/user-attachments/assets/f83bd7a9-f7d3-49ed-a904-b802acb5832c)
 
 
 ---
