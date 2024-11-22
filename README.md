@@ -52,11 +52,11 @@ Em resumo, o projeto demonstra como a integração de tecnologias de hardware e 
 
 A imagem á baixo mostra o recebimentos de dados no Dashboard
 
-![image](https://github.com/user-attachments/assets/0ad07e13-0e9b-49e6-afb3-29d556984294)
+##**![image](https://github.com/user-attachments/assets/0ad07e13-0e9b-49e6-afb3-29d556984294)**
 
 A imagem á baixo mostra como está projetado o Node-RED
 
-![image](https://github.com/user-attachments/assets/f83bd7a9-f7d3-49ed-a904-b802acb5832c)
+##**![image](https://github.com/user-attachments/assets/f83bd7a9-f7d3-49ed-a904-b802acb5832c)**
 
 
 ---
