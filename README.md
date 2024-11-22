@@ -34,7 +34,7 @@ No **Wokwi**, o projeto inclui:
   - **LDR**: Para medir níveis de luminosidade.
 - Comunicação via **MQTT**: O ESP32 publica os dados dos sensores em tópicos MQTT simulados, prontos para serem consumidos pelo **Node-RED**.
 
-##**Projeto de Monitoramento com ESP32, Node-RED e Wokwi**
+## **Projeto de Monitoramento com ESP32, Node-RED e Wokwi**
 
 Este projeto tem como objetivo monitorar variáveis ambientais em tempo real, utilizando o microcontrolador ESP32 e sensores como DHT22 (temperatura e umidade), LDR (luminosidade) e um potenciômetro (entrada analógica). Os dados captados são enviados via MQTT para o Node-RED, onde são processados e exibidos em um dashboard interativo.
 
