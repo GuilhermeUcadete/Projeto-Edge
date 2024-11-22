@@ -54,16 +54,3 @@ Em resumo, o projeto demonstra como a integração de tecnologias de hardware e 
 
 
 ---
-
-
-## **Instalação**
-
-### **Node-RED**
-
-1. **Instalar o Node.js**:  
-   Baixe e instale o Node.js [aqui](https://nodejs.org/).
-
-2. **Instalar o Node-RED**:  
-   Após a instalação do Node.js, abra o terminal e execute o seguinte comando para instalar o **Node-RED**:  
-   ```bash
-   npm install -g --unsafe-perm node-red
