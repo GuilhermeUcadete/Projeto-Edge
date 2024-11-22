@@ -14,12 +14,6 @@ Este repositório contém os seguintes componentes:
 
 ---
 
-## **Objetivo**
-
-O objetivo deste projeto é monitorar e visualizar os dados de sensores em tempo real. Através da integração do **ESP32** com **Node-RED**, é possível observar a leitura de sensores de **luminosidade**, **temperatura**, **umidade** e **potenciômetro**, enviando essas informações de forma contínua para o servidor MQTT, permitindo a visualização e o controle remoto dos dados.
-
----
-
 ## **Simulação com Wokwi**
 
 ### **Link para o Projeto no Wokwi**
